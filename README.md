@@ -14,4 +14,4 @@
    clientId=xxxxxx
    clientSecret=xxxxxx
    ```
-3. ``
+3. `import_SSHPubKey_to_WebARENA.cmd`を実行する
