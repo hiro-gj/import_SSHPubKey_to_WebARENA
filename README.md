@@ -15,3 +15,7 @@
    clientSecret=xxxxxx
    ```
 3. `import_SSHPubKey_to_WebARENA.cmd`を実行する
+
+4. 既知の課題（2025.11.8現在）
+[RSAは成功するが、ED25519は失敗する。。 #1](https://github.com/hiro-gj/import_SSHPubKey_to_WebARENA/issues/1)
+
