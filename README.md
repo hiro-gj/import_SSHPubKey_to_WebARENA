@@ -1,1 +1,1 @@
-# import_SSHPubKey_to_WebARENA
+# `WebARENA Indigo API`でSSH公開鍵をインポートするWindowsスクリプト
