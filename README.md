@@ -4,12 +4,14 @@
 - （Zenn：mnodさん）[WebARENA Indigo の API を試す](https://zenn.dev/mnod/articles/ab039cccf3c975)
 
 ## 使い方
-1. `.env`ファイルを作成する。
+1. 全てのファイルを同じフォルダにダウンロードする。
+2. 同じフォルダに`.env`ファイルを作成する。
    ```
    # WebARENA Indigo API Key
-   # ダッシュボード - API鍵の管理 - API鍵の作成
+   # WebARENAにアクセスして、ダッシュボード - API鍵の管理 - API鍵の作成から取得する
    # clientId: <API鍵>
    # clientSecret: <API秘密鍵>
    clientId=xxxxxx
    clientSecret=xxxxxx
    ```
+3. ``
