@@ -15,7 +15,10 @@
    clientSecret=xxxxxx
    ```
 3. `import_SSHPubKey_to_WebARENA.cmd`を実行する
+---
+- 補足
+    - `rsa-sha2-512`も登録可能。`ssh-keygen -t rsa-sha2-512`
 
-4. 既知の課題
-- [RSAは成功するが、ED25519は失敗する。。（2025.11.8現在）](https://github.com/hiro-gj/import_SSHPubKey_to_WebARENA/issues/1)
+- 既知の課題
+    - [RSAは成功するが、ED25519は失敗する。。（2025.11.8現在）](https://github.com/hiro-gj/import_SSHPubKey_to_WebARENA/issues/1)
 
